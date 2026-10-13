@@ -1,6 +1,11 @@
 .venv/
 mlruns/
 mlruns.db
+mlflow.db
+mlartifacts/
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
+notas/
+data_sets_transformados/*.csv
+eda_salidas/*.png
