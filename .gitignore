@@ -9,3 +9,6 @@ __pycache__/
 notas/
 data_sets_transformados/*.csv
 eda_salidas/*.png
+.codegraph/
+diagnosticos/
+2round/secondary_market_*.csv
